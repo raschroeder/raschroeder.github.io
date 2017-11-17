@@ -19,7 +19,7 @@
 
 
 
-<title>Rachel Marvelous Site | Page 12</title>
+<title>Rachel's Marvelous Site | Page 12</title>
 
 
 
@@ -32,8 +32,8 @@
 <meta name="author" content="Your Name">
 
 <meta property="og:locale" content="en">
-<meta property="og:site_name" content="Rachel Marvelous Site">
-<meta property="og:title" content="Rachel Marvelous Site">
+<meta property="og:site_name" content="Rachel's Marvelous Site">
+<meta property="og:title" content="Rachel’s Marvelous Site">
 
 
   <link rel="canonical" href="http://localhost:4000/_pages/home.md">
@@ -93,7 +93,7 @@
 <!-- end SEO -->
 
 
-<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Rachel Marvelous Site Feed">
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Rachel's Marvelous Site Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -140,7 +140,7 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="http://localhost:4000/">Rachel Marvelous Site</a>
+        <a class="site-title" href="http://localhost:4000/">Rachel's Marvelous Site</a>
         <ul class="visible-links">
           
             
