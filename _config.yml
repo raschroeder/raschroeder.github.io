@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en"
 title                    : "Rachel Schroeder"
 title_separator          : "|"
-name                     : "R.S"
+name                     : #
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
