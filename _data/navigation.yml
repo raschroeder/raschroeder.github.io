@@ -1,7 +1,11 @@
 # main links
 main:
+  - title: "Home"
+    url: /home/
   - title: "CV"
     url: /CV/
+  - title: "Projects"
+    url: /projects/
   - title: "Wiki"
     url: /lorem-ipsum/
   # - title: "About"
