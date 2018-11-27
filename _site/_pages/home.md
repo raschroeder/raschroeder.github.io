@@ -19,7 +19,7 @@
 
 
 
-<title>Rachel's Marvelous Site | Page 12</title>
+<title>Rachel Schroeder | Page 12</title>
 
 
 
